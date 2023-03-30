@@ -32,7 +32,7 @@ function App() {
    moneyRandon={getRandonMoney}
   />
       <footer>
-      <a href="https://github.com/yeisonmarroquin887/entregable1.git">Repositorio</a>
+      <a href="https://github.com/yeisonmarroquin887/proyecto-1-de-react.git">Repositorio</a>
       
     </footer>
   </div>
